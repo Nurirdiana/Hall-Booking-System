@@ -21,7 +21,8 @@ A simple CRUD web application for IMS566 project.
    composer require dompdf/dompdf
    ```
 5. Run:
-   http://localhost/hallsystem
+   http://localhost/hallbookingsystem
+   
 
 
 ## Default login
